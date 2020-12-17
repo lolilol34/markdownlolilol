@@ -14,19 +14,19 @@ Presentation
 ![Donut](https://i.imgur.com/pW0HMQs.png)
 
 
-![Salon](https://i.imgur.com/5UW0EjK.png)
+![Salon](https://i.imgur.com/hU2czkN.png)
 
 ## Compétences :
 
 ###Programmation
 
-•	C++
-•	C#
-•	HTML5
-•	CSS3
-•	PHP
++ C++
++	C#
++	HTML5
++	CSS3
++	PHP
 
 ### Modélisation 
 
-•	Blender
-•	Unreal Engine
++	Blender
++	Unreal Engine
