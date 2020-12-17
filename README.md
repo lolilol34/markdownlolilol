@@ -14,7 +14,7 @@ Presentation
 ![Donut](https://i.imgur.com/pW0HMQs.png)
 
 
-![Salon](https://i.imgur.com/pW0HMQs.png)
+![Salon](https://i.imgur.com/hU2czkN.png)
 
 ## Compétences :
 
