@@ -11,7 +11,7 @@ Presentation
 
 ### Blender : le donut et le salon
 
-![Donut](https://i.imgur.com/pW0HMQs.png)
+![Donut](https://i.imgur.com/ryRjcrD.png)
 
 
 ![Salon](https://i.imgur.com/hU2czkN.png)
