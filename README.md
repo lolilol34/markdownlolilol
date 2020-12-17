@@ -15,3 +15,18 @@ Presentation
 
 
 ![Salon](https://i.imgur.com/5UW0EjK.png)
+
+## Compétences :
+
+###Programmation
+
+•	C++
+•	C#
+•	HTML5
+•	CSS3
+•	PHP
+
+### Modélisation 
+
+•	Blender
+•	Unreal Engine
