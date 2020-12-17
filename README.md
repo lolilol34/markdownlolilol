@@ -1,5 +1,5 @@
 # Bienvenue sur le ReadME
-Presentation
+# Presentation
 
 ## Langages appris ?
 
@@ -18,7 +18,7 @@ Presentation
 
 ## Compétences :
 
-###Programmation
+### Programmation
 
 + C++
 +	C#
