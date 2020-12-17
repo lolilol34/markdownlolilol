@@ -9,9 +9,9 @@ Presentation
 
 ## Créations ?
 
-### Blender 
-####Le donut
+### Blender : le donut et le salon
+
 ![Donut](https://i.imgur.com/pW0HMQs.png)
 
-####Le Salon 
+
 ![Salon](https://i.imgur.com/5UW0EjK.png)
