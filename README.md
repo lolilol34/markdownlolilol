@@ -20,7 +20,7 @@
 
 ### Site web
 
-![ProjetIUT](https://iutprojet.000webhostapp.com/en/index.php)
+[ProjetIUT](https://iutprojet.000webhostapp.com/en/index.php)
 
 ## Compétences :
 
