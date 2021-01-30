@@ -1,6 +1,8 @@
 # Bienvenue sur le ReadME
 # Presentation
 
+# Lucas Pierron
+
 ## Langages appris ?
 
 + HTML5, CSS3
@@ -30,6 +32,8 @@
 
 +	Blender
 +	Unreal Engine
+
+# Benjamin Bérard
 
 # Projet SIN
 ## Présentation
